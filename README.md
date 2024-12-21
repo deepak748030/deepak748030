@@ -51,7 +51,8 @@ I am a passionate full-stack developer currently in my 4th year (7th semester) o
 ---
 
 ### 🌟 **GitHub Stats**
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak-kushwah&show_icons=true&theme=radical)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak748030&show_icons=true&count_private=true&theme=radical)
+
 
 <!--# Hi, I'm Deepak Kushwah 👋  
 
