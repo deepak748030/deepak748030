@@ -57,13 +57,13 @@ Currently pursuing **B.Tech in Computer Science & Engineering** with a strong fo
 
 ### 🌟 **Notable Projects**
 
-1. **[Battle Champ](#)**  
+1. **Battle Champ**  
    A **gaming platform** where users can participate in contests and track their progress.  
    - **Features**: User authentication via phone number, wallet system with ₹10 bonus, and contest creation.  
    - **Tech Stack**: MERN, Razorpay Payment Gateway, React Icons, Express.js, MongoDB, Node.js
 
-2. **Volleyball Event Management System**  
-   A web platform to streamline the registration and management of volleyball events.  
+2. **SportMate**  
+   A **volleyball event management system** designed to streamline the process of event registration, team management, and scheduling.  
    - **Features**: Event scheduling, live updates, team management.  
    - **Tech Stack**: React.js, Node.js, MongoDB, Express.js, Bootstrap
 
@@ -105,7 +105,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering** with a strong fo
 - **Email**: [deepak748930@gmail.com](mailto:deepak748930@gmail.com)  
 - **LinkedIn**: [Deepak Kushwah](https://www.linkedin.com/in/deepak-kushwah-43b23a259)  
 - **GitHub**: [deepak748030](https://github.com/deepak748030)  
-- **Portfolio**: [Your Portfolio Name Here](#) (Update when available)
+- **Portfolio**: [DeepakDevPortfolio](https://deepakdevportfolio.com) (Update once available)
 
 ---
 
@@ -117,4 +117,3 @@ If you're interested in collaborating or contributing to any of my repositories,
 3. Once you've made your changes, submit a **pull request** for review.
 
 ---
-
