@@ -80,10 +80,6 @@ Currently pursuing **B.Tech in Computer Science & Engineering** with a strong fo
    A bot built using **Node.js** and **MongoDB** that allows users to search and retrieve movies based on their preferences.  
    - **Tech Stack**: Node.js, MongoDB, Telegram Bot API
 
-6. **Rummy Game Backend**  
-   A backend API for a **Rummy game**, allowing user profiles, game statistics, and real-time updates.  
-   - **Tech Stack**: TypeScript, Docker, MongoDB, Redis
-
 ---
 
 ### 🏆 **GitHub Stats & Contributions**
@@ -105,7 +101,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering** with a strong fo
 - **Email**: [deepak748930@gmail.com](mailto:deepak748930@gmail.com)  
 - **LinkedIn**: [Deepak Kushwah](https://www.linkedin.com/in/deepak-kushwah-43b23a259)  
 - **GitHub**: [deepak748030](https://github.com/deepak748030)  
-- **Portfolio**: [DeepakDevPortfolio](https://deepakdevportfolio.com) (Update once available)
+- **Portfolio**: [DeepakDevPortfolio](https://portfolio-8bh8.vercel.app/)
 
 ---
 
