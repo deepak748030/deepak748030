@@ -5,8 +5,6 @@
 **Passionate about building scalable and user-centric applications using modern technologies.**  
 With expertise in **MERN stack**, **React Native**, **Kafka**, and **WebSockets**, I specialize in crafting high-performance web and mobile applications.  
 
-![GitHub Banner](https://github.com/deepak748030.png)  
-
 ## 🌟 **About Me**  
 
 - 🎓 **B.Tech in Computer Science & Engineering**  
