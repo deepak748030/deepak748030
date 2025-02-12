@@ -1,115 +1,114 @@
-# 👋 Hi, I'm Deepak Kushwah | Full Stack Developer | MERN Stack | React Native Enthusiast
+---
 
-🚀 **Passionate Software Developer with a knack for building scalable, user-centric applications.**  
-Currently pursuing **B.Tech in Computer Science & Engineering** with a strong foundation in **full-stack web development** and **mobile app development**. I specialize in **MERN stack**, **React Native**, and a range of other cutting-edge technologies. With a solid academic background and hands-on experience through internships and projects, I’m eager to contribute my skills and knowledge in real-world applications.
+# 🚀 **Deepak Kushwah** | Full Stack Developer | MERN & React Native Enthusiast  
+
+**Passionate about building scalable and user-centric applications using modern technologies.**  
+With expertise in **MERN stack**, **React Native**, **Kafka**, and **WebSockets**, I specialize in crafting high-performance web and mobile applications.  
+
+![GitHub Banner](https://github.com/deepak748030.png)  
+
+## 🌟 **About Me**  
+
+- 🎓 **B.Tech in Computer Science & Engineering**  
+- 💻 **Full Stack Developer** (MERN | TypeScript | React Native)  
+- 🏗 **Microservices | Kafka | WebSockets | Redis**  
+- 🔐 **Secure Payment Integrations (Razorpay, UPI, Wallet Systems)**  
+- 🚀 **Cloud & DevOps Enthusiast (Docker, Kubernetes, NGINX, AWS)**  
 
 ---
 
-### 🔧 **Skills & Technologies**
+## 🔧 **Skills & Technologies**  
 
-- **Frontend**: React.js, TypeScript, JavaScript, HTML5, CSS3, Material UI, Bootstrap, Tailwind CSS  
-- **Backend**: Node.js, Express.js, MongoDB, Redis, Kafka, RESTful APIs, JWT Authentication  
-- **Mobile App Development**: React Native (Expo)  
-- **Database & Caching**: MongoDB, Redis, MongoDB Sharding, Indexing  
-- **Version Control & CI/CD**: Git, GitHub, Docker, Kubernetes, NGINX  
-- **Payment Integration**: Razorpay  
-- **Tools & Practices**: WebSockets, Kafka, Docker, NGINX, Microservices, TDD  
-- **Soft Skills**: Problem-Solving, Communication, Time Management, Team Collaboration, Leadership
+### **Frontend**  
+✅ React.js, TypeScript, JavaScript, Redux  
+✅ Tailwind CSS, Material UI, Bootstrap  
+✅ Next.js, React Native (Expo)  
 
----
+### **Backend**  
+✅ Node.js, Express.js, MongoDB, PostgreSQL  
+✅ Kafka, Redis, WebSockets, RESTful APIs  
+✅ JWT Authentication, OAuth, Microservices  
 
-### 🎓 **Education & Certifications**
+### **DevOps & Tools**  
+✅ Docker, Kubernetes, NGINX  
+✅ CI/CD, Git, GitHub Actions  
+✅ AWS (S3, Lambda, EC2)  
 
-- **B.Tech in Computer Science & Engineering**  
-  **Prestige Institute of Technology and Research**, Bhopal (Currently Pursuing)
-
-- **12th**  
-  **Jawahar Navodaya Vidyalaya**, Madhya Pradesh  
-  _Score: 84%_
-
-- **10th**  
-  **Jawahar Navodaya Vidyalaya**, Madhya Pradesh  
-  _Score: 81%_
-
-#### **Certifications**:
-- **AWS Academy Cloud Foundations**: Completed 20 hours of training on cloud fundamentals  
-- **Cisco Cybersecurity Essentials**: Completed the certification from Cisco  
-- **Full Stack Web Development Internship**: Coding Raja Technologies (1-month duration from 1/5/2024 to 1/6/2024)  
-- **Java SE Internship**: Trinity Institute of Technology and Research (2-month duration from 01-Oct-2022 to 30-Nov-2022)
+### **Database & Performance Optimization**  
+✅ MongoDB Sharding, Indexing, Read Replicas  
+✅ Caching with Redis for High Performance  
 
 ---
 
-### 💼 **Professional Experience & Internships**
+## 🚀 **Notable Projects**  
 
-#### **Trinity Institute of Technology and Research**  
-- **Internship Duration**: 01-Oct-2022 to 30-Nov-2022  
-- **Technologies**: Java SE  
-- **Details**:  
-  Worked with **Integration IT Services Private Limited** where I focused on **Java Standard Edition**. Gained hands-on experience with core Java and successfully completed all tasks while demonstrating strong problem-solving skills, time management, and work ethics.
+### 🏆 **Battle Champ** *(Real Money Gaming Platform)*  
+📌 **Features**: Phone-based authentication, Wallet System, Razorpay Payments  
+🛠 **Tech Stack**: MERN, WebSockets, Razorpay, Express  
 
-#### **Coding Raja Technologies**  
-- **Internship Duration**: 01-May-2024 to 01-Jun-2024  
-- **Technologies**: Full Stack Web Development  
-- **Details**:  
-  Developed and deployed full-stack applications using **React.js**, **Node.js**, and **MongoDB**. Contributed to real-world projects, learned about production-level systems, and honed my skills in **Git**, **CI/CD pipelines**, and **project management**.
+### 🎮 **SportMate** *(Volleyball Event Management System)*  
+📌 **Features**: Event scheduling, Team Management, Live Updates  
+🛠 **Tech Stack**: React, Node.js, MongoDB, Express  
 
----
+### 🛒 **E-Commerce Platform** *(Live Location-Based Delivery & Subscription Model)*  
+📌 **Features**: Product Catalog, Secure Payments, Subscription-Based Orders  
+🛠 **Tech Stack**: MERN, Razorpay API, Kafka, Redis  
 
-### 🌟 **Notable Projects**
+### 🏏 **Cricket Match Dashboard** *(Real-Time Match Updates)*  
+📌 **Features**: Add/Edit/Delete Matches, API Integration for Live Scores  
+🛠 **Tech Stack**: React.js, Node.js, Express.js, MongoDB  
 
-1. **Battle Champ**  
-   A **gaming platform** where users can participate in contests and track their progress.  
-   - **Features**: User authentication via phone number, wallet system with ₹10 bonus, and contest creation.  
-   - **Tech Stack**: MERN, Razorpay Payment Gateway, React Icons, Express.js, MongoDB, Node.js
-
-2. **SportMate**  
-   A **volleyball event management system** designed to streamline the process of event registration, team management, and scheduling.  
-   - **Features**: Event scheduling, live updates, team management.  
-   - **Tech Stack**: React.js, Node.js, MongoDB, Express.js, Bootstrap
-
-3. **E-commerce Website**  
-   An e-commerce site with product selection, payment gateway integration, and secure order management.  
-   - **Features**: Product catalog, cart management, Razorpay integration.  
-   - **Tech Stack**: MERN, Razorpay API, Material UI, Express.js
-
-4. **Cricket Match Dashboard**  
-   A dashboard for displaying live cricket match data, with features for adding, editing, and deleting matches.  
-   - **Tech Stack**: React.js, Node.js, Express.js, MongoDB
-
-5. **Telegram Movie Bot**  
-   A bot built using **Node.js** and **MongoDB** that allows users to search and retrieve movies based on their preferences.  
-   - **Tech Stack**: Node.js, MongoDB, Telegram Bot API
+### 🎬 **Telegram Movie Bot** *(Movie Search & Streaming Bot)*  
+📌 **Features**: Search and retrieve movies via Telegram API  
+🛠 **Tech Stack**: Node.js, MongoDB, Telegram Bot API  
 
 ---
 
-### 🏆 **GitHub Stats & Contributions**
+## 🎓 **Education & Certifications**  
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak748030&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak748030&layout=compact&theme=radical)
+- **B.Tech in Computer Science & Engineering** | Prestige Institute of Technology, Bhopal  
+- **12th & 10th | Jawahar Navodaya Vidyalaya, Madhya Pradesh** (84% & 81%)  
 
----
-
-### 💡 **What I’m Currently Learning**
-- **Advanced React Native & Expo**
-- **Microservices Architecture**
-- **WebSocket and Kafka for Real-Time Communication**
-- **Cloud Infrastructure with AWS**
+### 📜 **Certifications**  
+📌 **AWS Academy Cloud Foundations**  
+📌 **Cisco Cybersecurity Essentials**  
+📌 **Full Stack Web Development Internship** *(Coding Raja Technologies)*  
+📌 **Java SE Internship** *(Trinity Institute of Technology & Research)*  
 
 ---
 
-### 📫 **Contact Me**
-- **Email**: [deepak748930@gmail.com](mailto:deepak748930@gmail.com)  
-- **LinkedIn**: [Deepak Kushwah](https://www.linkedin.com/in/deepak-kushwah-43b23a259)  
-- **GitHub**: [deepak748030](https://github.com/deepak748030)  
-- **Portfolio**: [DeepakDevPortfolio](https://portfolio-8bh8.vercel.app/)
+## 📊 **GitHub Stats & Contributions**  
+
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak748030&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak748030&layout=compact&theme=radical)  
 
 ---
 
-### 🛠️ **How to Contribute to My Projects**
+## 🌱 **What I’m Currently Learning**  
 
-If you're interested in collaborating or contributing to any of my repositories, here’s how you can help:
-1. Fork the repository to your own GitHub account.
-2. Create a new branch to work on your feature or fix.
-3. Once you've made your changes, submit a **pull request** for review.
+📌 **Advanced React Native & Expo**  
+📌 **Microservices Architecture & Event-Driven Systems**  
+📌 **Kafka for Real-Time Communication**  
+📌 **Cloud Infrastructure & AWS**  
+
+---
+
+## 📫 **Let's Connect!**  
+
+📩 **Email**: [deepak748930@gmail.com](mailto:deepak748930@gmail.com)  
+🔗 **LinkedIn**: [Deepak Kushwah](https://www.linkedin.com/in/deepak-kushwah-43b23a259)  
+💻 **GitHub**: [deepak748030](https://github.com/deepak748030)  
+🌐 **Portfolio**: [DeepakDevPortfolio](https://portfolio-8bh8.vercel.app/)  
+
+---
+
+## 🤝 **How to Contribute to My Projects**  
+
+🚀 Fork the repository  
+🚀 Create a new feature branch  
+🚀 Make your awesome changes  
+🚀 Submit a pull request  
+
+Your contributions are welcome! Let's build something amazing together. 🎉  
 
 ---
