@@ -1,5 +1,3 @@
----
-
 # 🚀 **Deepak Kushwah** | Full Stack Developer | MERN & React Native Enthusiast  
 
 **Passionate about building scalable and user-centric applications using modern technologies.**  
